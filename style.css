@@ -56,11 +56,24 @@ footer{
 .image-size img{
 width: 40%;
 }
+.Difference{
+    padding: 2%;
+}
 .text-color{
     color: palevioletred;
 }
 .text-size{
 font-size: 50px;
+}
+.table-decoration
+{
+    padding: 5%;
+    
+}
+.table-style{
+   
+    text-align: center;
+    
 }
 #box-line{
     border-left: 3px solid;
