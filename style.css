@@ -1,0 +1,43 @@
+body{
+    font-family: 'Karla', sans-serif;
+
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 8%;
+    
+}
+.half-width img{
+    width: 90%;
+}
+.text-color{
+    color: palevioletred;
+}
+.text-size{
+font-size: 50px;
+}
+#box-line{
+    border-left: 3px solid;
+    border-image: linear-gradient(palevioletred, pink);
+    border-image-slice: 1;
+}
+.link-button
+{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(palevioletred, rgb(194, 121, 133) );
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#space-down{
+    padding-bottom: 10px;
+}
+#space-up{
+    padding-top: 10px;
+}
