@@ -10,8 +10,8 @@ body{
 
 .half-width{
     width: 50%;
-    padding-left: 10%;
-    padding-right: 8%;
+    padding-left: 05%;
+    padding-right: 2%;
     
 }
 .box-Container1{
@@ -66,7 +66,7 @@ font-size: 50px;
     padding: 10px 40px;
     border-radius: 5px;
 }
-#space-down{
+.space-down{
     padding-bottom: 10px;
 }
 #space-up{
@@ -77,4 +77,8 @@ font-size: 50px;
 }
 .text-size-part2{
     font-size: 40px;
+}
+#background-imageadd{
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
 }
